@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-
+before_install:
+  - chmod +x build.sh
 jobs:
   publish:
     runs-on: ubuntu-latest
