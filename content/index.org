@@ -1,0 +1,10 @@
+#+title: test document
+this is just text
+here and i am ju typoijg
+
+ * heading
+    * second heading
+lkjadjf
+
+
+kjk
